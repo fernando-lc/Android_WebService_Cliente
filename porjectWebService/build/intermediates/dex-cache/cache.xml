@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ForeverTuCode\Desktop\porjectWebService\app\libs\ksoap2-android-assembly-3.1.1-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddcd1698b4bc242e26bfd99e3779688ab311b918">
+        <dex dex="C:\Users\ForeverTuCode\Desktop\porjectWebService\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-3.1.1-jar-with-dependencies-49d00d017ca620e812ab344e55413fd551e91099.jar" />
+    </item>
+    <item
+        jar="C:\Users\ForeverTuCode\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\ForeverTuCode\Desktop\porjectWebService\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-07941f185c37206ec775a5479310baeb865e9b41.jar" />
+    </item>
+
+</items>

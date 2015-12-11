@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFF"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1.11"
+        android:weightSum="1">
+
+        <ImageButton
+            android:layout_width="338dp"
+            android:layout_height="400dp"
+            android:id="@+id/imageButton"
+            android:background="@drawable/cuadro"
+            android:layout_gravity="center_horizontal" />
+
+        <ProgressBar
+
+            android:layout_width="319dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/pbprogreso"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="30dp"
+            style="@android:style/Widget.ProgressBar.Horizontal"
+            android:progressDrawable="@drawable/progress_bar"
+            android:indeterminate="false" />
+        <!--
+        <ProgressBar
+            android:id="@+id/verify_progress"
+            style="@android:style/Widget.ProgressBar.Horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:layout_below="@id/pbprogreso"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:indeterminate="false"
+            android:progressDrawable="@drawable/progress_bar"
+    />
+    -->
+
+    </LinearLayout>
+</LinearLayout><!-- From: file:/C:/Users/ForeverTuCode/Desktop/porjectWebService/app/src/main/res/layout/splash.xml -->

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/ForeverTuCode/Desktop/porjectWebService/app/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="color">#3F51B5</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#FFF</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <!-- From: file:/C:/Users/ForeverTuCode/Desktop/porjectWebService/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/ForeverTuCode/Desktop/porjectWebService/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Otros</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="agregar">Agregar renta</string>
+    <string name="app_name">MoviesItch</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="cliente">Cliente</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="fecha">Fecha</string>
+    <string name="idRenta">Id renta</string>
+    <string name="info">Información</string>
+    <string name="pedidosActuales">Rentas actuales:</string>
+    <string name="pelicula">Pelicula</string>
+    <string name="registrar">Registrar Renta</string>
+    <string name="sincronizar">Sincronizar</string>
+    <string name="verify_phone"/>
+    <!-- From: file:/C:/Users/ForeverTuCode/Desktop/porjectWebService/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="Theme.black" parent="android:Theme.Black"/>
+</resources>

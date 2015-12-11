@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MoviesItch</string>
+    <string name="action_settings">Otros</string>
+    <string name="info">Información</string>
+    <string name="idRenta">Id renta</string>
+    <string name="cliente">Cliente</string>
+    <string name="pelicula">Pelicula</string>
+    <string name="fecha">Fecha</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="agregar">Agregar renta</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="registrar">Registrar Renta</string>
+    <string name="sincronizar">Sincronizar</string>
+    <string name="pedidosActuales">Rentas actuales:</string>
+    <string name="verify_phone"></string>
+
+
+</resources>
